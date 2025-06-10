@@ -22,9 +22,3 @@
 - 🧰 [Portfolio Personal - FreeCodeCamp](https://github.com/LisandroAstori/Portfolio-freecodecamp)
 - 🎨 [Responsive Web](https://github.com/LisandroAstori/responsive-web)
 - 🗃️ [Proyectos Coder](https://github.com/LisandroAstori/Proyectos-Coder)
-
----
-
-### 📫 Contacto
-
-- [LinkedIn](https://www.linkedin.com/in/lisandro-astori)
