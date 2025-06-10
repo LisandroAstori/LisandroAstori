@@ -1,6 +1,4 @@
-<p align="center">
-  <h1>👋 Hola, soy Lisandro Astori</h1>
-</p>
+<h1 align="center">👋 Hola, soy Lisandro Astori</h1>
 
 🎓 Estudiante de segundo año de la **Licenciatura en Sistemas** en la Universidad Nacional de La Plata (UNLP)
 📚 Actualmente enfocado en seguir desarrollando mis conocimientos técnicos y académicos dentro de la carrera.  
