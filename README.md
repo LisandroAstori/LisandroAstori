@@ -7,12 +7,11 @@
 
 ---
 
-### 🧠 Sobre mí
+### 🧠 Sobre mí:
 
 🎓 Actualmente curso el segundo año de la carrera.  
 🌱 Me encuentro fortaleciendo mis conocimientos técnicos y académicos.  
-🚀 Tengo muchas ganas de seguir aprendiendo y construyendo proyectos reales.  
-🧩 Me interesa el desarrollo web, la programación limpia y las buenas prácticas.
+🚀 Me interesa el Desarrollo Full Stack
 
 ---
 
