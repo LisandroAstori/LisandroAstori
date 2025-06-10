@@ -7,22 +7,27 @@
 
 ---
 
-### 🧠 Sobre mí:
+### 🧠 Sobre mí
 
 🎓 Actualmente curso el segundo año de la carrera.  
 🌱 Me encuentro fortaleciendo mis conocimientos técnicos y académicos.  
-🚀 Me interesa el Desarrollo Full Stack
+🚀 Tengo muchas ganas de seguir aprendiendo y construyendo proyectos reales.  
+🧩 Me interesa el desarrollo web, la programación limpia y las buenas prácticas.
 
 ---
 
-### ⚙️ Tecnologías que manejo
+### 💻 Tecnologías que utilizo
 
+#### 🧾 Lenguajes
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Sass](https://img.shields.io/badge/-Sass-C69?style=flat-square&logo=sass&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap)
+
+#### 🧰 Herramientas
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
+#### 📦 Frameworks / Librerías
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap)
 
 ---
 
@@ -38,7 +43,7 @@
 ### 📫 Contacto
 
 📍 La Plata, Buenos Aires  
-📧 lisandro.astori@example.com *(o dejarlo solo en el perfil, si preferís)*  
+📧 lisandro.astori@example.com  
 💼 [LinkedIn](https://www.linkedin.com/in/lisandro-astori)
 
 ---
