@@ -1,10 +1,10 @@
-# 👋 Hola, soy Lisandro Astori
+<p align="center">
+  <h1>👋 Hola, soy Lisandro Astori</h1>
+</p>
 
-Estudiante de segundo año de la **Licenciatura en Sistemas** en la Universidad Nacional de La Plata (UNLP).
-
-Actualmente me encuentro profundizando mis conocimientos en desarrollo web y consolidando conceptos base de programación, arquitectura de computadoras y estructuras de datos, como parte de mi formación académica.
-
-Tengo interés en el diseño responsivo, buenas prácticas de desarrollo y seguir aprendiendo nuevas tecnologías.
+🎓 Estudiante de segundo año de la **Licenciatura en Sistemas** en la Universidad Nacional de La Plata (UNLP)
+📚 Actualmente enfocado en seguir desarrollando mis conocimientos técnicos y académicos dentro de la carrera.  
+💡 Me interesa seguir creciendo como desarrollador, aprender nuevas tecnologías y construir bases sólidas para el futuro.
 
 ---
 
@@ -13,3 +13,4 @@ Tengo interés en el diseño responsivo, buenas prácticas de desarrollo y segui
 - CSS3 / Sass
 - Bootstrap
 - Git / GitHub
+
