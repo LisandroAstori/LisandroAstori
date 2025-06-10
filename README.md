@@ -1,24 +1,15 @@
-# 👋 ¡Hola! Soy Lisandro Astori
+# 👋 Hola, soy Lisandro Astori
 
-🎓 Estudiante de **Licenciatura en Sistemas** en la [UNLP](https://www.unlp.edu.ar/), actualmente en segundo año.  
-💻 Me formé como desarrollador web en Coderhouse, donde aprendí HTML, CSS, Sass, Bootstrap y Git.  
-🚀 Me interesa seguir aprendiendo nuevas tecnologías, construir proyectos propios y seguir creciendo en el mundo IT.  
-📚 Siempre estoy buscando mejorar mis habilidades y prepararme para futuras oportunidades laborales en tecnología.
+Estudiante de segundo año de la **Licenciatura en Sistemas** en la Universidad Nacional de La Plata (UNLP).
+
+Actualmente me encuentro profundizando mis conocimientos en desarrollo web y consolidando conceptos base de programación, arquitectura de computadoras y estructuras de datos, como parte de mi formación académica.
+
+Tengo interés en el diseño responsivo, buenas prácticas de desarrollo y seguir aprendiendo nuevas tecnologías.
 
 ---
 
-### 🛠️ Tecnologías que manejo
-
+🛠️ **Tecnologías con las que trabajé:**
 - HTML5
-- CSS3
-- Sass
+- CSS3 / Sass
 - Bootstrap
-- Git & GitHub
-
----
-
-### 📂 Algunos de mis proyectos
-
-- 🧰 [Portfolio Personal - FreeCodeCamp](https://github.com/LisandroAstori/Portfolio-freecodecamp)
-- 🎨 [Responsive Web](https://github.com/LisandroAstori/responsive-web)
-- 🗃️ [Proyectos Coder](https://github.com/LisandroAstori/Proyectos-Coder)
+- Git / GitHub
