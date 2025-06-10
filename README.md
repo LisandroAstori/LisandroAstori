@@ -1,12 +1,7 @@
 <h1 align="center">👋 ¡Hola! Soy Lisandro Astori</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7CF1FF&center=true&vCenter=true&multiline=true&width=435&lines=Estudiante+de+Licenciatura+en+Sistemas;Apasionado+por+la+tecnología+y+el+aprendizaje+🚀" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/LisandroAstori"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/lisandro-astori"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Estudiante+de+Sistemas;Desarrollador+Web+en+proceso;Aprendiendo+tecnologías+IT;Apasionado+por+el+código+💻;Curioso+y+proactivo+🚀" alt="Typing SVG" />
 </p>
 
 ---
