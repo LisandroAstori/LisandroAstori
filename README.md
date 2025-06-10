@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Lisandro Astori
 
-<!--
-**LisandroAstori/LisandroAstori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de **Licenciatura en Sistemas** en la [UNLP](https://www.unlp.edu.ar/), actualmente en segundo año.  
+💻 Me formé como desarrollador web en Coderhouse, donde aprendí HTML, CSS, Sass, Bootstrap y Git.  
+🚀 Me interesa seguir aprendiendo nuevas tecnologías, construir proyectos propios y seguir creciendo en el mundo IT.  
+📚 Siempre estoy buscando mejorar mis habilidades y prepararme para futuras oportunidades laborales en tecnología.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologías que manejo
+
+- HTML5
+- CSS3
+- Sass
+- Bootstrap
+- Git & GitHub
+
+---
+
+### 📂 Algunos de mis proyectos
+
+- 🧰 [Portfolio Personal - FreeCodeCamp](https://github.com/LisandroAstori/Portfolio-freecodecamp)
+- 🎨 [Responsive Web](https://github.com/LisandroAstori/responsive-web)
+- 🗃️ [Proyectos Coder](https://github.com/LisandroAstori/Proyectos-Coder)
+
+---
+
+### 📫 Contacto
+
+- [LinkedIn](https://www.linkedin.com/in/lisandro-astori)
