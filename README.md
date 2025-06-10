@@ -1,7 +1,7 @@
 <h1 align="center">👋 ¡Hola! Soy Lisandro Astori</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Estudiante+de+Sistemas;Desarrollador+Web+en+proceso;Aprendiendo+tecnologías+IT;Apasionado+por+el+código+💻;Curioso+y+proactivo+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Estudiante+de+Sistemas;Desarrollador+Web+en+proceso;Apasionado+por+el+código+💻;Aprendiendo+nuevas+tecnologías+🚀;Curioso+y+proactivo+🧠" alt="Typing SVG" />
 </p>
 
 ---
