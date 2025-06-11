@@ -8,10 +8,9 @@
 
 ## 🧑‍💻 Sobre mí
 
-Actualmente estudio la **Licenciatura en Sistemas** en la [Universidad Nacional de La Plata (UNLP)](https://unlp.edu.ar), donde estoy cursando el segundo año.  
-Me apasiona el mundo del desarrollo web y disfruto aprender constantemente nuevas tecnologías.  
-Estoy construyendo una base sólida en programación, con muchas ganas de crecer en el ámbito académico y profesional.
-
+- 🎓 Estudiante cursando mi segundo año de Licenciatura en Sistema en la UNLP
+- 🧩Comprometido con el aprendizaje constante y el desarrollo académico.
+- 
 ---
 
 ## 🛠️ Tecnologías
