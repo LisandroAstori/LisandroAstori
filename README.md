@@ -12,6 +12,17 @@
 - 🧩 Comprometido con el aprendizaje constante y el desarrollo académico
 
 ---
+<div align="center">
+
+<h3>Primer año</h3>
+<a href="https://github.com/LisandroAstori/TallerDeProgramacion/tree/main">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LisandroAstori&repo=TallerDeProgramacion&theme=gruvbox" />
+</a>
+
+<h3>Segundo año</h3>
+
+</div>
+---
 
 <h3>🛠️ Lenguajes</h3>
 <p>
@@ -34,20 +45,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="60px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="60px"/>
 </p>
-
----
-
-<h3>📚 Recorrido académico</h3>
-<div align="center">
-
-<h3>Primer año</h3>
-<a href="https://github.com/LisandroAstori/TallerDeProgramacion/tree/main">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LisandroAstori&repo=TallerDeProgramacion&theme=gruvbox" />
-</a>
-
-<h3>Segundo año</h3>
-
-</div>
 
 ---
 
