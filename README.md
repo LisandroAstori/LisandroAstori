@@ -46,12 +46,12 @@
 ---
 
 <h3>📫 Contacto</h3>
-<p align="center">
-  <a href="mailto:lisandroastori@gmail.com">
+<p>
+  <a href="mailto:lisandroastoriwasd@gmail.com">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40px" />
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/lisandroastori/">
+  <a href="www.linkedin.com/in/lisandroastori">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40px" />
   </a>
   &nbsp;
