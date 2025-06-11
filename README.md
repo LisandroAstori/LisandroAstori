@@ -39,7 +39,6 @@
 ---
 
 ## 📚 Recorrido académico
-
 <div align="center">
 
 <h3>Primer año</h3>
