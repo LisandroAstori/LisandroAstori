@@ -36,7 +36,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" style="height: 30px;" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" style="height: 30px;" />
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="VSCode" style="height: 30px;" />
-  <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=flat&logo=apache-netbeans-ide&logoColor=white" alt="NetBeans" style="height: 30px;" />
+  <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=flat&logo=apache-netbeans-ide&logoColor=white" alt="NetBeans" style="height: 24px;" />
 </p>
 
 <h3>📦 Frameworks / Preprocesadores</h3>
@@ -50,15 +50,16 @@
 <h3>📫 Contacto</h3>
 <p>
   <a href="mailto:lisandroastoriwasd@gmail.com" style="text-decoration: none; margin-right: 8px;">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" style="height: 36px;" />
   </a>
   <a href="https://www.linkedin.com/in/lisandroastori" style="text-decoration: none; margin-right: 8px;">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" style="height: 36px;" />
   </a>
   <a href="https://github.com/LisandroAstori" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" style="height: 36px;" />
   </a>
 </p>
+
 
 
 
