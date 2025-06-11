@@ -56,8 +56,7 @@ Estoy construyendo una base sólida en programación, con muchas ganas de crecer
 
 ## 📫 Contacto
 
-- 📍 Argentina
-- 🕐 Zona horaria: GMT-3
+- 📍 Buenos Aires, Argentina
 - ✉️ lisandroastori@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/lisandroastori/)
 
