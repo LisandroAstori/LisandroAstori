@@ -41,7 +41,7 @@ Estoy construyendo una base sólida en programación, con muchas ganas de crecer
 <div align="center">
 
 <h3>Primerr año</h3>
--[TallerDeProgramacion](https://github.com/LisandroAstori/TallerDeProgramacion)
+- [TallerDeProgramacion](https://github.com/LisandroAstori/TallerDeProgramacion)
 
 <h3>Segundo año</h3>
 
