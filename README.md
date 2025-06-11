@@ -41,7 +41,7 @@ Estoy construyendo una base sólida en programación, con muchas ganas de crecer
 <div align="center">
 
 <h3>Primerr año</h3>
-<a href="https://github.com/LisandroAstori/TallerDeProgramacion">
+<a href="https://github.com/LisandroAstori/TallerDeProgramacion/tree/main">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=LisandroAstori&repo=algoritmos-unlp&theme=gruvbox" />
 </a>
 
