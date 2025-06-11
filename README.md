@@ -6,7 +6,7 @@
 
 ---
 
-<h2>🧑‍💻 Sobre mí</h2>
+<h3>🧑‍💻 Sobre mí</h3>
 
 - 🎓 Estudiante cursando mi segundo año de Licenciatura en Sistema en la UNLP  
 - 🧩 Comprometido con el aprendizaje constante y el desarrollo académico
