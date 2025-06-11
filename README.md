@@ -37,7 +37,7 @@
 
 ---
 
-## 📚 Recorrido académico
+<h3>📚 Recorrido académico</h3>
 <div align="center">
 
 <h3>Primer año</h3>
