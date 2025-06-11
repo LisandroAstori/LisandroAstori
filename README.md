@@ -40,14 +40,12 @@ Estoy construyendo una base sólida en programación, con muchas ganas de crecer
 
 <div align="center">
 
-<h3>🧩 1er Año</h3>
+<h3>Primerr año</h3>
 
-<!-- Ejemplo, lo reemplazás cuando tengas un repo real -->
-- [algoritmos-unlp](https://github.com/LisandroAstori/algoritmos-unlp)
 
-<h3>🧠 2do Año</h3>
+<h3>Segundo año</h3>
 
-<!-- Acá irán futuros repos -->
+
 
 </div>
 
