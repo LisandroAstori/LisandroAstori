@@ -51,7 +51,7 @@
 
 ---
 
-## 📫 Contacto
+<h3>📫 Contacto</h3>
 <p align="center">
   <a href="mailto:lisandroastori@gmail.com">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40px" />
