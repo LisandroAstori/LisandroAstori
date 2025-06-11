@@ -22,6 +22,7 @@
 <h3>Segundo año</h3>
 
 </div>
+
 ---
 
 <h3>🛠️ Lenguajes</h3>
