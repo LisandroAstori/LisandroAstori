@@ -1,64 +1,63 @@
-<h1 align="center">👋 ¡Hola! Soy Lisandro Astori</h1>
+<h1 align="center">👋 ¡Hola! Soy Lisandro</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FFD700&center=true&vCenter=true&width=500&lines=Estudiante+de+Sistemas;Aprendiendo+nuevas+tecnologías+🚀&background=00000000&cursorColor=00FFFF" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FFD700&center=true&vCenter=true&width=500&lines=Estudiante+de+Sistemas;Desarrollador+Web+en+proceso;Apasionado+por+el+código+💻;Aprendiendo+nuevas+tecnologías+🚀;Curioso+y+proactivo+🧠&background=00000000&cursorColor=00FFFF" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🧑‍💻 Sobre mí
+## 🧑‍💻 Sobre mí
 
-- 🎓 Actualmente curso el segundo año de la **Licenciatura en Sistemas** en la **Universidad Nacional de La Plata (UNLP)**.
-- 🚀 Estoy enfocado en seguir creciendo académica y profesionalmente, explorando nuevas tecnologías y buenas prácticas.
-- 💡 Me interesa el desarrollo web, la programación y todo lo relacionado con el mundo IT.
-
----
-
-### 🛠️ Tecnologías que utilizo
-
-#### 📜 Lenguajes
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-#### 🧩 Herramientas
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
-#### 🎨 Frameworks y tecnologías complementarias
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563d7c?style=flat-square&logo=bootstrap&logoColor=white)
+Actualmente estudio la **Licenciatura en Sistemas** en la [Universidad Nacional de La Plata (UNLP)](https://unlp.edu.ar), donde estoy cursando el segundo año.  
+Me apasiona el mundo del desarrollo web y disfruto aprender constantemente nuevas tecnologías.  
+Estoy construyendo una base sólida en programación, con muchas ganas de crecer en el ámbito académico y profesional.
 
 ---
 
-### 🎓 Recorrido académico
+## 🛠️ Tecnologías
 
-#### 📘 Primer año
-_(Aquí irán los repositorios de las materias del primer año que vayas creando)_
+### 🧾 Lenguajes
 
-#### 📗 Segundo año
-_(Aquí irán los repositorios de las materias del segundo año que vayas creando)_
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 
----
+### 🧩 Herramientas
 
-### 📊 GitHub Stats
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=flat&logo=apache-netbeans-ide&logoColor=white)
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LisandroAstori&show_icons=true&theme=transparent&hide_border=true&hide_title=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LisandroAstori&layout=compact&langs_count=6&hide_border=true&theme=transparent"/>
-</p>
+### 🎨 Frameworks y preprocesadores
 
----
-
-### 📬 Contacto
-
-- 📍 La Plata, Buenos Aires, Argentina  
-- 📧 lisandro.astori@gmail.com  
-- 🌐 [LinkedIn](https://www.linkedin.com/in/lisandro-astori)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)
 
 ---
 
-<p align="center">
-  ¡Gracias por visitar mi perfil! 😊
-</p>
+## 📚 Recorrido académico
+
+<div align="center">
+
+<h3>🧩 1er Año</h3>
+
+<!-- Ejemplo, lo reemplazás cuando tengas un repo real -->
+- [algoritmos-unlp](https://github.com/LisandroAstori/algoritmos-unlp)
+
+<h3>🧠 2do Año</h3>
+
+<!-- Acá irán futuros repos -->
+
+</div>
+
+---
+
+## 📫 Contacto
+
+- 📍 Argentina
+- 🕐 Zona horaria: GMT-3
+- ✉️ lisandroastori@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/lisandroastori/)
+
 
