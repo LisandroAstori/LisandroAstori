@@ -1,4 +1,4 @@
-<h1 align="center">👋 ¡Hola! Soy Lisandro</h1>
+<h1 align="center">👋 ¡Hola! Soy Lisandro Astori</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FFD700&center=true&vCenter=true&width=500&lines=Estudiante+de+Sistemas;Desarrollador+Web+en+proceso;Apasionado+por+el+código+💻;Aprendiendo+nuevas+tecnologías+🚀;Curioso+y+proactivo+🧠&background=00000000&cursorColor=00FFFF" alt="Typing SVG" />
